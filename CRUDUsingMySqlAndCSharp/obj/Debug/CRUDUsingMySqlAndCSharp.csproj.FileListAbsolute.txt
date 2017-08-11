@@ -1,0 +1,22 @@
+c:\users\alex\documents\visual studio 2013\Projects\CRUDUsingMySqlAndCSharp\CRUDUsingMySqlAndCSharp\bin\Debug\CRUDUsingMySqlAndCSharp.exe.config
+c:\users\alex\documents\visual studio 2013\Projects\CRUDUsingMySqlAndCSharp\CRUDUsingMySqlAndCSharp\bin\Debug\CRUDUsingMySqlAndCSharp.exe
+c:\users\alex\documents\visual studio 2013\Projects\CRUDUsingMySqlAndCSharp\CRUDUsingMySqlAndCSharp\bin\Debug\CRUDUsingMySqlAndCSharp.pdb
+c:\users\alex\documents\visual studio 2013\Projects\CRUDUsingMySqlAndCSharp\CRUDUsingMySqlAndCSharp\bin\Debug\MySql.Data.dll
+c:\users\alex\documents\visual studio 2013\Projects\CRUDUsingMySqlAndCSharp\CRUDUsingMySqlAndCSharp\obj\Debug\CRUDUsingMySqlAndCSharp.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2013\Projects\CRUDUsingMySqlAndCSharp\CRUDUsingMySqlAndCSharp\obj\Debug\CRUDUsingMySqlAndCSharp.Form1.resources
+c:\users\alex\documents\visual studio 2013\Projects\CRUDUsingMySqlAndCSharp\CRUDUsingMySqlAndCSharp\obj\Debug\CRUDUsingMySqlAndCSharp.Properties.Resources.resources
+c:\users\alex\documents\visual studio 2013\Projects\CRUDUsingMySqlAndCSharp\CRUDUsingMySqlAndCSharp\obj\Debug\CRUDUsingMySqlAndCSharp.csproj.GenerateResource.Cache
+c:\users\alex\documents\visual studio 2013\Projects\CRUDUsingMySqlAndCSharp\CRUDUsingMySqlAndCSharp\obj\Debug\CRUDUsingMySqlAndCSharp.exe
+c:\users\alex\documents\visual studio 2013\Projects\CRUDUsingMySqlAndCSharp\CRUDUsingMySqlAndCSharp\obj\Debug\CRUDUsingMySqlAndCSharp.pdb
+c:\users\alex\documents\visual studio 2013\Projects\CRUDUsingMySqlAndCSharp\CRUDUsingMySqlAndCSharp\obj\Debug\CRUDUsingMySqlAndCSharp.Form2.resources
+C:\Users\Alex\Downloads\CRUDUsingMySqlAndCSharp-master (4)\CRUDUsingMySqlAndCSharp-master\CRUDUsingMySqlAndCSharp\bin\Debug\CRUDUsingMySqlAndCSharp.exe.config
+C:\Users\Alex\Downloads\CRUDUsingMySqlAndCSharp-master (4)\CRUDUsingMySqlAndCSharp-master\CRUDUsingMySqlAndCSharp\bin\Debug\CRUDUsingMySqlAndCSharp.exe
+C:\Users\Alex\Downloads\CRUDUsingMySqlAndCSharp-master (4)\CRUDUsingMySqlAndCSharp-master\CRUDUsingMySqlAndCSharp\bin\Debug\CRUDUsingMySqlAndCSharp.pdb
+C:\Users\Alex\Downloads\CRUDUsingMySqlAndCSharp-master (4)\CRUDUsingMySqlAndCSharp-master\CRUDUsingMySqlAndCSharp\bin\Debug\MySql.Data.dll
+C:\Users\Alex\Downloads\CRUDUsingMySqlAndCSharp-master (4)\CRUDUsingMySqlAndCSharp-master\CRUDUsingMySqlAndCSharp\obj\Debug\CRUDUsingMySqlAndCSharp.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Downloads\CRUDUsingMySqlAndCSharp-master (4)\CRUDUsingMySqlAndCSharp-master\CRUDUsingMySqlAndCSharp\obj\Debug\CRUDUsingMySqlAndCSharp.Form1.resources
+C:\Users\Alex\Downloads\CRUDUsingMySqlAndCSharp-master (4)\CRUDUsingMySqlAndCSharp-master\CRUDUsingMySqlAndCSharp\obj\Debug\CRUDUsingMySqlAndCSharp.Form2.resources
+C:\Users\Alex\Downloads\CRUDUsingMySqlAndCSharp-master (4)\CRUDUsingMySqlAndCSharp-master\CRUDUsingMySqlAndCSharp\obj\Debug\CRUDUsingMySqlAndCSharp.Properties.Resources.resources
+C:\Users\Alex\Downloads\CRUDUsingMySqlAndCSharp-master (4)\CRUDUsingMySqlAndCSharp-master\CRUDUsingMySqlAndCSharp\obj\Debug\CRUDUsingMySqlAndCSharp.csproj.GenerateResource.Cache
+C:\Users\Alex\Downloads\CRUDUsingMySqlAndCSharp-master (4)\CRUDUsingMySqlAndCSharp-master\CRUDUsingMySqlAndCSharp\obj\Debug\CRUDUsingMySqlAndCSharp.exe
+C:\Users\Alex\Downloads\CRUDUsingMySqlAndCSharp-master (4)\CRUDUsingMySqlAndCSharp-master\CRUDUsingMySqlAndCSharp\obj\Debug\CRUDUsingMySqlAndCSharp.pdb
